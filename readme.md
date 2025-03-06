@@ -1,4 +1,4 @@
-# B2BTranzact (using both SQL and NOSQL)
+# B2BTranzact (using both SQL)
 
 ## Technologies
 
